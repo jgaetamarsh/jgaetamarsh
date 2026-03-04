@@ -16,6 +16,6 @@ This GitHub contains examples of:
 • legal-tech data analysis
 • product teardown analysis
 
-LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jennifergaetamarsh/)
-Writing: [https://medium.com](https://medium.com/@legalytical)
-Website: https://legalytical.com
+LinkedIn: [https://www.linkedin.com/in/jennifergaetamarsh/]
+Writing: [https://medium.com/@legalytical]
+Website: [https://legalytical.com]
